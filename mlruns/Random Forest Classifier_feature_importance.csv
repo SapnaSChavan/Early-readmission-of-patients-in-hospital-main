@@ -1,0 +1,47 @@
+Feature,Importance
+Patient_Age,0.11843170680481999
+num_lab_procedures,0.11763332938547419
+num_medications,0.10031988584779186
+time_in_hospital,0.07180926295714803
+number_inpatient_log,0.07135391261321761
+number_diagnoses,0.05739444896810864
+num_procedures,0.047804471601777115
+insulin,0.031048619246875433
+number_outpatient_log,0.02502771791210435
+number_emergency_log,0.02037278968771476
+diag_3_cat_Other,0.018186314302750417
+metformin,0.018074148630439994
+payer_code_group_Self-Pay/Other,0.017106768111439435
+race_Caucasian,0.01699963576215632
+diag_3_cat_Diabetes,0.015324973647780064
+change_No,0.013688806245618612
+admission_type_desc_Emergency,0.013621335868092556
+payer_code_group_Private Insurance,0.013567787188120347
+admission_category_Physician Referral,0.013353137166851652
+admission_type_desc_Urgent,0.013094384144705953
+discharge_category_Discharged to Home,0.012764718474252203
+Specialty_Group_Other,0.012602041285608547
+A1Cresult_No,0.012570415935844218
+discharge_category_Transfers to Other Healthcare Facilities,0.011608800754341852
+admission_category_Transfers from Other Facilities,0.010996875833843291
+diag_3_cat_Respiratory,0.010954449043904298
+diabetesMed_Yes,0.010732745581062967
+diag_3_cat_Genitourinary,0.00994905580245324
+admission_type_desc_Other,0.009010944886478313
+A1Cresult_>8,0.008518427484710702
+diag_3_cat_Digestive,0.007876477489626974
+A1Cresult_Norm,0.007028619335920326
+admission_category_Other,0.006316857876926914
+Specialty_Group_Surgery,0.006293655769550519
+discharge_category_Other,0.0059031010011110895
+race_Other,0.005738187126578349
+Specialty_Group_Internal Medicine,0.005688015583028822
+diag_3_cat_Musculoskeletal,0.004938301069488355
+max_glu_serum_No,0.004888783467528789
+diag_3_cat_Neoplasms,0.004798748437473378
+diag_3_cat_Injury,0.0047758214855322615
+race_Hispanic,0.0042239994264246855
+max_glu_serum_Norm,0.0035124683650028204
+max_glu_serum_>300,0.002240775535131262
+race_Asian,0.0016271887489148588
+Specialty_Group_Family/General Practice,0.0002270881062736897
